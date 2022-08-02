@@ -5,3 +5,4 @@ O Projeto foi feito durante o Curso de JavaScript e TypeScript do básico ao ava
 <br>
 <br>
 <h2>Link do Projeto</h2>
+https://paulogsiqueira.github.io/Calculadora-IMC---Js/
